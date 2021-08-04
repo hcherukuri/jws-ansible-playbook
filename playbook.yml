@@ -28,6 +28,7 @@
     tomcat_java_version: 1.8.0
   collections:
     - middleware_automation.redhat_csp_download
+    - community.general
   roles:
     - jws
     - common_criteria
